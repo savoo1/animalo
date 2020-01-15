@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="199" height="185" viewBox="0 0 199 185">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="2.563" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3e348e"/>
+      <stop offset="1" stop-color="#5e73e4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.941" y1="0.124" x2="-0.375" y2="2.899" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5e73e4"/>
+      <stop offset="1" stop-color="#dfe6fe"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.556" y1="1.068" x2="0.597" y2="-0.168" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c7d0ef"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.887" x2="0.2" y2="1.098" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7e90f0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.853" y1="0.167" x2="-0.282" y2="1.787" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-6" x1="0.5" x2="0.755" y2="1.354" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#825ee3"/>
+      <stop offset="1" stop-color="#3e348e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="0.5" y1="1.67" x2="0.5" y2="-1.087" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff8062"/>
+      <stop offset="1" stop-color="#825ee3"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0.963" y1="-0.095" x2="-0.231" y2="1" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g id="Birds" transform="translate(-334 -506)">
+    <rect id="Rectangle_Bird" data-name="Rectangle Bird" width="199" height="185" rx="25" transform="translate(334 506)" fill="url(#linear-gradient)"/>
+    <text id="birds-2" data-name="birds" transform="translate(334 514)" fill="#1f1a47" font-size="18" font-family="OpenSans-Regular, Open Sans"><tspan x="78.406" y="19">birds</tspan></text>
+    <g id="Bird_svg" data-name="Bird svg" transform="translate(368.322 553.032)">
+      <path id="Path_135" data-name="Path 135" d="M195.426,488.123c35.674,0,64.626-8,64.626-17.862S231.15,452.4,195.426,452.4c-35.674,0-64.626,8-64.626,17.862C130.849,480.125,159.752,488.123,195.426,488.123Z" transform="translate(-130.8 -366.872)" fill="#1f1a47"/>
+      <ellipse id="Ellipse_80" data-name="Ellipse 80" cx="7.429" cy="7.429" rx="7.429" ry="7.429" transform="translate(69.098 80.004) rotate(-22.5)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_136" data-name="Path 136" d="M264.615,349.786a.045.045,0,0,1,.046-.046h0a20.712,20.712,0,0,0,2.492-9.828c0-1.477-.554-15.411-20.717-36.036h0a13.427,13.427,0,1,0-20.717,16.519h0s3.737,4.014,3.83,7.567a20.642,20.642,0,0,0-3.83,12,19.906,19.906,0,0,0,.554,4.706L206.2,378.809s19.61-2.538,32.991-4.753c11.72-1.938,22.517-19.195,24.962-23.347,0-.046.046-.046.046-.092A6.284,6.284,0,0,1,264.615,349.786Z" transform="translate(-165.419 -282.004)" fill="url(#linear-gradient-3)"/>
+      <path id="Path_137" data-name="Path 137" d="M260.3,279.957,276.311,264.5l-5.86,17.626Z" transform="translate(-194.557 -264.5)" fill="url(#linear-gradient-4)"/>
+      <path id="Path_138" data-name="Path 138" d="M188.028,436.7,148.3,463.231s42.773-7.475,53.478-18.549Z" transform="translate(-134.235 -357.245)" fill="url(#linear-gradient-5)"/>
+      <ellipse id="Ellipse_81" data-name="Ellipse 81" cx="3.045" cy="3.045" rx="3.045" ry="3.045" transform="translate(67.081 23.209)" fill="#140e45"/>
+      <ellipse id="Ellipse_82" data-name="Ellipse 82" cx="5.445" cy="5.445" rx="5.445" ry="5.445" transform="translate(72.941 27.869)" fill="url(#linear-gradient-6)"/>
+      <circle id="Ellipse_83" data-name="Ellipse 83" cx="0.646" cy="0.646" r="0.646" transform="translate(68.604 25.285)" fill="#dfe6fe"/>
+      <path id="Path_139" data-name="Path 139" d="M240.17,328s-7.659,3.414-3.138,10.013c0,0,4.845-.554,8.444-1.015C245.523,337.044,246.768,330.03,240.17,328Z" transform="translate(-181.256 -298.7)" fill="url(#linear-gradient-7)"/>
+      <path id="Path_140" data-name="Path 140" d="M211.72,363.9,173.1,405.473s28.423,1.061,51.863-18.687C252.186,363.9,211.72,363.9,211.72,363.9Z" transform="translate(-147.592 -318.035)" fill="url(#linear-gradient-8)"/>
+      <ellipse id="Ellipse_84" data-name="Ellipse 84" cx="7.429" cy="7.429" rx="7.429" ry="7.429" transform="translate(59.145 83.331)" fill="#c7d0ef"/>
+      <line id="Line_32" data-name="Line 32" y2="3.645" transform="translate(78.801 91.452)" fill="#ff8062" stroke="#dfe6fe" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_141" data-name="Path 141" d="M259.1,475.231l.692,3.784a1.427,1.427,0,0,0,2.492-.185l-.323-3.83Z" transform="translate(-193.911 -377.872)" fill="#ff8062"/>
+      <path id="Path_142" data-name="Path 142" d="M246.466,481.7,234.7,489.959l.738.784,12.827-7.383Z" transform="translate(-180.769 -381.481)" fill="#ff8062"/>
+      <path id="Path_143" data-name="Path 143" d="M264.5,481.7l13.935,9.136-.923.6L263.3,483.361Z" transform="translate(-196.173 -381.481)" fill="#ff8062"/>
+      <path id="Path_144" data-name="Path 144" d="M285.2,462.231l.323,4.153a17.7,17.7,0,0,0,2.215,0c.138-.092.646-4.383.646-4.383Z" transform="translate(-207.968 -370.871)" fill="#ff8062"/>
+      <path id="Path_145" data-name="Path 145" d="M271.5,471.553l6.506-2.953,1.384,1.384-7.567,2.4Z" transform="translate(-200.589 -374.426)" fill="#ff8062"/>
+      <path id="Path_146" data-name="Path 146" d="M289.8,468.2l11.812,11.581-.831.646L288.6,469.769Z" transform="translate(-209.799 -374.21)" fill="#ff8062"/>
+      <path id="Path_147" data-name="Path 147" d="M264.1,481.4l9.69.923v.877l-9.6-.461Z" transform="translate(-196.604 -381.319)" fill="#ff8062"/>
+      <path id="Path_148" data-name="Path 148" d="M290.015,467.6l6.275,2.076-.323.923-6.367-1.615Z" transform="translate(-210.338 -373.887)" fill="#ff8062"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="228" height="140" viewBox="0 0 228 140">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.465" y2="2.519" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff8062"/>
+      <stop offset="1" stop-color="#845ee1"/>
+      <stop offset="1" stop-color="#825ee3"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="2.791" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff8062"/>
+      <stop offset="1" stop-color="#825ee3"/>
+    </linearGradient>
+  </defs>
+  <g id="Fish" transform="translate(-433 -717)">
+    <g id="Rectangle_Fish" data-name="Rectangle Fish" transform="translate(433 717)" fill="none" stroke="#00e094" stroke-width="1">
+      <rect width="228" height="140" rx="25" stroke="none"/>
+      <rect x="0.5" y="0.5" width="227" height="139" rx="24.5" fill="none"/>
+    </g>
+    <text id="fish_" data-name="fish
+" transform="translate(433 725)" fill="#00e094" font-size="20" font-family="OpenSans-Regular, Open Sans"><tspan x="97.174" y="21">fish</tspan></text>
+    <g id="Fish_svg" data-name="Fish svg" transform="translate(486.332 768.31)">
+      <path id="Union_4" data-name="Union 4" d="M0,27.6l42.112-1.23L61.056,52.9ZM61.056,0,42.112,26.366,0,27.6Z" transform="translate(48.509 1.845)" fill="url(#linear-gradient)"/>
+      <path id="Path_151" data-name="Path 151" d="M159.93,374.445a47.182,47.182,0,0,0-26.243,13.7s-9.759,6.11-10.087,8.9c0,0,.533,5.9,10.087,8.9,0,0,23.291,5.864,34.69,6.643,0,0,19.518,1.681,20.913-12.876l5.782-15.582L168.377,372.6Z" transform="translate(-123.6 -363.128)" fill="url(#linear-gradient-2)"/>
+      <ellipse id="Ellipse_85" data-name="Ellipse 85" cx="5.823" cy="4.552" rx="5.823" ry="4.552" transform="translate(9.431 25.71)" fill="#dfe6fe"/>
+      <ellipse id="Ellipse_86" data-name="Ellipse 86" cx="2.05" cy="2.05" rx="2.05" ry="2.05" transform="translate(12.712 28.211)" fill="#140e45"/>
+      <path id="Path_152" data-name="Path 152" d="M238.9,466.053l18,8.693,4.634-10.046Z" transform="translate(-191.621 -417.462)" fill="#ff8062"/>
+      <path id="Path_153" data-name="Path 153" d="M212.2,360.817c1.23-.533,21.61-11.317,21.61-11.317l13.532,20.994Z" transform="translate(-175.87 -349.5)" fill="#ff8062"/>
+    </g>
+  </g>
+</svg>
